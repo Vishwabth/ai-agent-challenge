@@ -75,5 +75,6 @@ $ python agent.py --target icici --verbose
 |   Framework   | Lightweight SDK + Gemini API                                    |
 |   Loop Type   | plan → generate → test → self-correct (≤3 attempts)             |
 |   Output      | Fully functional PDF → CSV parser                               |
-|   Goal       | Demonstrate autonomous agent behavior with minimal dependencies  |
+|   Goal        | Demonstrate autonomous agent behavior with minimal dependencies |
 ```
+
