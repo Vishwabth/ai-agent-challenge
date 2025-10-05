@@ -1,0 +1,8 @@
+pandas
+pytest
+pdfplumber
+google-generativeai
+langchain
+langgraph
+tiktoken
+requests
